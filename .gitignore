@@ -1,6 +1,5 @@
 # Corpus data
 data/raw/**/*
-data/curated/corpus/generic
 data/curated/passim
 data/models
 dataset.pickle
